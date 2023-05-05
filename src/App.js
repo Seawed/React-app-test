@@ -28,9 +28,9 @@ function App() {
         </a>{' '}
         was bootstrapped with{' '}
         <a href="https://facebook.github.io/create-react-app/">
-          Create React App
+          Create React AppPLEASE
         </a>{' '}
-        and contains three directories, <code>/public</code> for static assets,{' '}
+        and , <code>/public</code> for static assets,{' '}
         <code>/src</code> for components and content, and <code>/api</code>{' '}
         which contains a serverless <a href="https://golang.org/">Go</a>{' '}
         function. See{' '}
